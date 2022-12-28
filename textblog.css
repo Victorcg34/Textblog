@@ -1,0 +1,34 @@
+body{
+  margin-top: 0px;
+  /* pra tirar o espaço branco de cima */
+}
+#divcolor{
+  background-color: #eeeded;
+  width: 70%;
+  /* width tem que esta com um valor na hora que eu quiser centralizar com usando margin */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin: 0px auto 0px auto;
+}
+
+.textdata{
+  color: #008080;
+  margin-top: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
+  font-family: "Roboto";
+}
+
+
+.pub{
+  margin-right: 40px;
+  margin-left: 40px;
+  font-family: "Montserrat";
+}
+
+.post{
+  margin-right: 40px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  font-family: "Open Sans";
+}
